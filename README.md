@@ -1,111 +1,240 @@
-<!-- Bannière -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5E57,100:3FB8A9&height=200&section=header&text=Mustapha%20Akabli&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Ing%C3%A9nieur%20Full%20Stack%20Java%20%2F%20Angular&descAlignY=58&descSize=20" alt="Mustapha Akabli" width="100%"/>
-</p>
 
-<!-- Texte animé -->
-<p align="center">
-  <a href="https://akablimustapha.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0F5E57&center=true&vCenter=true&width=640&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular;Microservices+%E2%80%A2+Kafka+%E2%80%A2+Keycloak;J'aime+livrer+des+applications+fiables+%F0%9F%9A%80;Disponible+%3A+CDI+ou+freelance" alt="Texte animé"/>
-  </a>
-</p>
+<!-- ============================================ -->
+<!-- MUSTAPHA AKABLI | PREMIUM GITHUB PROFILE     -->
+<!-- ============================================ -->
 
-<!-- Boutons -->
-<p align="center">
-  <a href="https://akablimustapha.github.io"><img src="https://img.shields.io/badge/Mon%20Portfolio-0F5E57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mustapha-akabli-a2042422a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.malt.fr/profile/mustaphaakabli"><img src="https://img.shields.io/badge/Malt%20Freelance-FC5757?style=for-the-badge&logo=handshake&logoColor=white" alt="Malt"/></a>
-  <a href="mailto:mustapha.akabli.2018@gmail.com"><img src="https://img.shields.io/badge/Email-C8963E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Rabat%2C%20Maroc-f7f5f0?style=flat-square" alt="Rabat"/>
-  <img src="https://img.shields.io/badge/🎓%20Ingénieur%20d'État%20EMSI%202024-f7f5f0?style=flat-square" alt="EMSI"/>
-  <img src="https://img.shields.io/badge/✅%20Disponible%20immédiatement-3FB8A9?style=flat-square" alt="Disponible"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:111C35,100:172554&height=230&section=header&text=MUSTAPHA%20AKABLI&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=JAVA%20FULL%20STACK%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=62&descColor=93C5FD" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+scalable+software+solutions.;Java+%7C+Spring+Boot+%7C+Angular;Microservices+%7C+Kafka+%7C+Docker;Clean+Code.+Reliable+Systems.+Continuous+Learning." />
+
+<br/><br/>
+
+<a href="https://akablimustapha.github.io">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1528?style=for-the-badge&logo=googlechrome&logoColor=60A5FA"/>
+</a>
+<a href="https://www.linkedin.com/in/mustapha-akabli-a2042422a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1528?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+<a href="https://www.malt.fr/profile/mustaphaakabli">
+<img src="https://img.shields.io/badge/MALT-0D1528?style=for-the-badge&logo=freelancer&logoColor=60A5FA"/>
+</a>
+<a href="mailto:mustapha.akabli.2018@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-0D1528?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=akablimustapha&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-## 👨‍💻 Qui suis-je ?
+## `01` — ABOUT ME
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hello, I'm Mustapha 👋
+
+**Java Full Stack Engineer** passionate about building robust, scalable and maintainable software applications.
+
+I specialize in backend engineering, distributed systems and modern web development.
+
+My approach combines clean architecture, technical quality and a strong focus on business needs.
+
+- 📍 Rabat, Morocco
+- 🎓 State Engineer — EMSI (2024)
+- 💼 Java Full Stack Development
+- 🌍 Arabic · French · English
+- 🎯 Open to CDI opportunities and freelance projects
+
+</td>
+<td width="40%" valign="center">
 
 ```java
-public class MustaphaAkabli {
+public class Developer {
 
-    String role       = "Ingénieur Full Stack Java / Angular";
-    String diplome    = "Ingénieur d'État – EMSI Rabat (2024), option MIAGE";
-    String ville      = "Rabat, Maroc 🇲🇦";
-    String[] langues  = {"Arabe", "Français", "Anglais"};
+    String name = "Mustapha Akabli";
 
-    String[] backend  = {"Java 17", "Spring Boot", "Spring Security", "Spring Cloud", "Kafka", "Keycloak"};
-    String[] frontend = {"Angular", "TypeScript", "RxJS", "PrimeNG"};
-    String[] data     = {"PostgreSQL", "MySQL", "MariaDB"};
-    String[] devops   = {"Docker", "GitHub Actions", "Maven", "JUnit"};
+    String role =
+        "Java Full Stack Engineer";
 
-    String recherche  = "Un poste en CDI ou une mission freelance 🚀";
+    String[] interests = {
+        "Software Architecture",
+        "Microservices",
+        "Backend Engineering",
+        "Clean Code"
+    };
 
-    String motivation() {
-        return "Construire des applications fiables, bien testées et utiles aux utilisateurs.";
-    }
+    String mindset =
+        "Always building. Always learning.";
 }
 ```
 
-## 💼 Ce que j'ai réalisé
-
-- 🏭 **Plateforme de traçabilité industrielle** (agroalimentaire, pharma) en **microservices** : Spring Cloud Gateway, Eureka, Kafka, Keycloak, WebSockets, monitoring Grafana / Prometheus
-- 🕋 **Omraty** (freelance) : application de réservation Omra & Hajj, bilingue FR / AR, **publiée sur l'App Store et le Play Store**
-- ⚙️ **Sofrecom** : automatisation des traitements **Spring Batch** pour une plateforme IaaS
-- ✈️ **Travel Booking Platform** : projet open source complet (JWT, tests, Docker, CI) 👇
-
-## 🛠️ Ma stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css&theme=light" alt="Langages et frameworks"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,githubactions,maven&theme=light" alt="Bases de données et DevOps"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,linux&theme=light" alt="Outils"/>
-</p>
-
-## 🚀 Projet à la une
-
-<table>
-  <tr>
-    <td width="55%">
-      <a href="https://github.com/akablimustapha/travel-booking-platform">
-        <img src="https://raw.githubusercontent.com/akablimustapha/travel-booking-platform/main/docs/screenshots/01-offres.png" alt="Travel Booking Platform"/>
-      </a>
-    </td>
-    <td width="45%">
-      <h3>✈️ Travel Booking Platform</h3>
-      <p>Plateforme de réservation de voyages : places en temps réel, espace client et back-office admin.</p>
-      <ul>
-        <li>🔐 Spring Security + <b>JWT</b>, rôles client / admin</li>
-        <li>🔒 Verrou contre la double réservation</li>
-        <li>🧪 Tests <b>JUnit</b>, Mockito et MockMvc</li>
-        <li>🐳 <b>Docker Compose</b> + CI GitHub Actions</li>
-      </ul>
-      <a href="https://github.com/akablimustapha/travel-booking-platform"><img src="https://img.shields.io/badge/Voir%20le%20code-0F5E57?style=for-the-badge&logo=github&logoColor=white" alt="Voir le code"/></a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-## 📊 Mon activité GitHub
+---
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akablimustapha&theme=default" alt="Statistiques"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akablimustapha&theme=default" alt="Langages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akablimustapha&hide_border=true&ring=0F5E57&fire=C8963E&currStreakLabel=0F5E57&locale=fr" alt="Série de contributions"/>
-</p>
+## `02` — TECHNOLOGY STACK
 
-## 🤝 Travaillons ensemble
+<div align="center">
 
-<p align="center">
-  Vous cherchez un <b>développeur Java / Angular</b> motivé et rigoureux ?<br/>
-  👉 Visitez mon <a href="https://akablimustapha.github.io"><b>portfolio</b></a> ou écrivez-moi sur <a href="https://www.linkedin.com/in/mustapha-akabli-a2042422a/"><b>LinkedIn</b></a>.
-</p>
+### BACKEND ENGINEERING
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB8A9,100:0F5E57&height=110&section=footer" alt="" width="100%"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka&theme=dark" />
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" />
+
+### DATABASE & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,redis&theme=dark" />
+
+### TOOLS & QUALITY
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,idea,vscode,linux&theme=dark" />
+
+</div>
+
+---
+
+## `03` — FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Travel Booking Platform
+
+A complete travel reservation platform with real-time seat management and administration.
+
+**Core features**
+
+- JWT Authentication & Authorization
+- Client / Admin roles
+- Double-booking prevention
+- REST API architecture
+- Unit & integration testing
+- Docker Compose
+- GitHub Actions CI
+
+<a href="https://github.com/akablimustapha/travel-booking-platform">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Industrial Traceability Platform
+
+Microservices-based traceability solutions for industrial sectors.
+
+**Technical highlights**
+
+- Spring Boot Microservices
+- Spring Cloud Gateway & Eureka
+- Apache Kafka
+- Keycloak / OAuth2 / JWT
+- PostgreSQL
+- WebSocket notifications
+- Grafana & Prometheus
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕋 Omraty
+
+Mobile application for Umrah & Hajj reservations.
+
+- Bilingual FR / AR
+- Mobile application
+- Booking management
+- Published on App Store & Google Play
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ IaaS Batch Automation
+
+Enterprise application for batch job administration and automation.
+
+- Spring Boot
+- Spring Batch
+- Angular
+- MariaDB
+- Agile Scrum
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akablimustapha&show_icons=true&hide_border=true&bg_color=0D1528&title_color=60A5FA&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akablimustapha&layout=compact&hide_border=true&bg_color=0D1528&title_color=60A5FA&text_color=CBD5E1" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=akablimustapha&hide_border=true&background=0D1528&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+
+</div>
+
+---
+
+## `05` — WHAT I VALUE
+
+<div align="center">
+
+| PRINCIPLE | APPROACH |
+|:---|:---|
+| Architecture | Scalable & maintainable systems |
+| Code Quality | Clean Code & SOLID principles |
+| Testing | JUnit, Mockito & integration testing |
+| Collaboration | Agile / Scrum & teamwork |
+| Growth | Continuous learning & improvement |
+
+</div>
+
+---
+
+## `06` — LET'S CONNECT
+
+<div align="center">
+
+### Have an interesting project or opportunity?
+
+I'm always interested in discussing software engineering, backend architecture and innovative projects.
+
+<br/>
+
+<a href="mailto:mustapha.akabli.2018@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mustapha-akabli-a2042422a/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1528?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+
+<br/><br/>
+
+**Building the future, one commit at a time.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:111C35,100:080B16&height=110&section=footer"/>
+
+</div>
